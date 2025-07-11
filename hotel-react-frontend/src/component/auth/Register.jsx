@@ -47,7 +47,7 @@ const RegisterPage = () => {
 
 
     return(
-        <div className="login-background">
+        
         <div className="auth-container">
             {message.text && (<p className={`${message.type}-message`}>{message.text}</p>)}
 
@@ -71,7 +71,7 @@ const RegisterPage = () => {
             <p className="register-link"> Already have an account? <a href="/login">Login</a></p>
 
         </div>
-        </div>
+        
     )
 
 }

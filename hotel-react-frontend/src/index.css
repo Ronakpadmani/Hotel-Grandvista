@@ -84,17 +84,7 @@
   margin: 20px auto 50px auto;
  }
  
-
- .login-background {
-    min-height: 100vh;
-    background: url('F:/hotel-react-frontend/hotel-react-frontend/public/images/login-bg.png') no-repeat center center;
-    background-size: cover;
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
-  }
   
- 
  .auth-container h2 {
   text-align: center;
   margin-bottom: 20px;

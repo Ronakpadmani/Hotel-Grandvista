@@ -1,0 +1,2 @@
+package com.example.HotelBooking.repositories;public interface NotificationRepository {
+}

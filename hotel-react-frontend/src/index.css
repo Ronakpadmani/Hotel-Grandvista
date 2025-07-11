@@ -87,7 +87,7 @@
 
  .login-background {
     min-height: 100vh;
-    background: url('F:\hotel-react-frontend\hotel-react-frontend\public\images/login-bg.png') no-repeat center center;
+    background: url('F:/hotel-react-frontend/hotel-react-frontend/public/images/login-bg.png') no-repeat center center;
     background-size: cover;
     /* display: flex; */
     /* justify-content: center; */

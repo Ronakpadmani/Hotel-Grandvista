@@ -51,7 +51,7 @@ const LoginPage = () => {
 
 
   return(
-    <div className="login-background">
+   
     <div className="auth-container">
         {error && (<p className="error-message">{error}</p>)}
 
@@ -75,7 +75,7 @@ const LoginPage = () => {
         <p className="register-link"> Don't have an account? <a href="/register">Register</a></p>
 
     </div>
-    </div>
+    
 )
 
 
